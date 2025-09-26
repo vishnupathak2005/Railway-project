@@ -1,28 +1,30 @@
-##Train Tracker 
+# 🚆 Railway Tracker
 
+Railway Tracker is a simple web application developed as a college project. It allows users to check train schedules and station codes efficiently. Built using **HTML, CSS, and JavaScript**, this project demonstrates basic frontend development and interactive forms.
 
-The Train Tracker project is a real-time train tracking system that uses the IRCTC Rapid API to provide information about trains in the Indian rail network. With this project, you can easily track the current location and status of any train, as well as other information such as the train's live schedule, PNR status, seat availability, train classes, and fare.
+---
 
-Features
+## 📋 Features
 
-The Train Tracker project offers the following features:
+- ✅ Search train schedules using **Train Number**  
+- ✅ Get station codes using **Station Code Dropdown**  
+- ✅ User-friendly interface with simple navigation  
+- ✅ Lightweight and responsive design  
 
-Search for stations
+---
 
-Search for trains
+## 📸 Screenshots
 
-Find trains between stations
+### 🔍 Station Code Dropdown
+![Station Code Form](images/station-code-form.jpeg)
 
-Get live train status
+### 🚆 Train Number Input
+![Train Number Form](images/train-number-form.jpeg)
 
-Get live train schedule
+---
 
-Get PNR status
+## ⚙️ How to Run
 
-Check seat availability
-
-Get train classes
-
-Get fare
-
-
+1. Clone the repository:
+```bash
+git clone https://github.com/vishnupathak2005/Railway-project.git
