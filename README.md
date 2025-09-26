@@ -1,10 +1,11 @@
 # Railway Track / Train Tracker
 
-*Project type:* College project — Static web + JS scripts to fetch train info (PNR, live status, schedule, fare, seats availability).
+*Project type:* College project — Static web + JS scripts to show train info (PNR, live status, schedule, fare, seats availability).
 
 ## Overview
-This is a simple Train Tracker project that uses public APIs/logic to show train schedules, live status, PNR status, fare, and seat availability.  
-It is built using HTML, CSS, and JavaScript.
+This is a simple Train Tracker project built using *HTML, CSS, and JavaScript*.  
+All the train information (schedule, PNR status, fare, seat availability) is *pre-inserted manually*.  
+No live API connection is used; the data shown is only what has been added in the project files.
 
 ## Features
 - Train search (searchTrain.js)
@@ -17,9 +18,7 @@ It is built using HTML, CSS, and JavaScript.
 
 ## Requirements / Dependencies
 - Browser (Chrome/Firefox)
-- Internet connection (if using APIs)
-- If any API key is required, add it to keys.txt  
-  (⚠ Never commit your secret keys to a public repository)
+- No internet connection is required as all data is static.
 
 ## How to run
 1. Download/clone the project files:
