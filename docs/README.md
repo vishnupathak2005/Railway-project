@@ -1,27 +1,42 @@
-# Railway Track / Train Tracker
+# Railway Information Portal
 
-*Project type:* College project — Static web + JS scripts to show train info (PNR, live status, schedule, fare, seats availability).
+This is a simple railway information portal built using **HTML**, **CSS**, and **JavaScript**. It was developed as part of my **Bachelor of Computer Applications (BCA)** final year project. The application displays train-related data without using any external APIs — all data is manually inserted for demonstration purposes.
 
-## Overview
-This is a simple Train Tracker project built using *HTML, CSS, and JavaScript*.  
-All the train information (schedule, PNR status, fare, seat availability) is *pre-inserted manually*.  
-No live API connection is used; the data shown is only what has been added in the project files.
+---
+
+## Project Screenshots
+
+### Home Page View
+<img width="1366" height="583" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/48e2a2c9-afcb-42e4-9e85-a243e8cd5d0c" />
+
+
+### Train Details Section
+<img width="1366" height="590" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/04624000-8501-4faa-abc1-641cef4923e6" />
+
+
+> Replace `YOUR_IMAGE_LINK_1` and `YOUR_IMAGE_LINK_2` with actual image URLs (e.g. GitHub-hosted image or public Imgur link)
+
+---
+
+## Technologies Used
+
+- HTML for page structure  
+- CSS for styling and layout  
+- JavaScript for dynamic behavior and logic  
+- No backend or database integration  
+- No API calls — all data is static and hardcoded
+
+---
 
 ## Features
-- Train search (searchTrain.js)
-- Station search (searchStation.js)
-- Get train schedule (get_train_schedule.js)
-- Live train status (get_train_live_status.js)
-- PNR status (getPNRStatus.js)
-- Fare calculation (getFare.js)
-- Seat availability (checkSeatAvailablity.js)
 
-## Requirements / Dependencies
-- Browser (Chrome/Firefox)
-- No internet connection is required as all data is static.
+- View train details by station  
+- Check seat availability (static logic)  
+- View train fare and live status (mocked)  
+- Simple search functionality  
+- Clean and responsive user interface  
 
-## How to run
-1. Download/clone the project files:
-   ```bash
-   git clone https://github.com/vishnupathak2005/Railway-project.git
-   cd Railway-project
+---
+
+## Folder Structure
+
