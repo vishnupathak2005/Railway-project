@@ -14,8 +14,6 @@ This is a simple railway information portal built using **HTML**, **CSS**, and *
 <img width="1366" height="590" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/04624000-8501-4faa-abc1-641cef4923e6" />
 
 
-> Replace `YOUR_IMAGE_LINK_1` and `YOUR_IMAGE_LINK_2` with actual image URLs (e.g. GitHub-hosted image or public Imgur link)
-
 ---
 
 ## Technologies Used
