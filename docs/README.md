@@ -36,7 +36,4 @@ This is a simple railway information portal built using **HTML**, **CSS**, and *
 - Simple search functionality  
 - Clean and responsive user interface  
 
----
-
-## Folder Structure
-
+--
